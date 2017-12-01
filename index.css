@@ -1,0 +1,45 @@
+.logo_container {
+  margin-top:30px;
+  margin:auto;
+  float:left;
+  height:300px;
+  width:56%;
+}
+
+#form_container {
+  float:left;
+  width:300px;
+  height:300px;
+  margin-top:127px;
+}
+
+.logo_img {
+  width: inherit;
+  min-width: 100px;
+  padding-top: 20px;
+}
+
+.login_name, .login_pass {
+  padding-top: 20px;
+  text-align: center;
+  margin:auto;
+}
+
+.login_button {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.input {
+  width: inherit;
+  max-width: 150px;
+}
+
+body {
+  font-family: 'Barlow Semi Condensed', cursive;
+  font-size: 16px;
+}
+
+br {
+  line-height: 30px;
+}
