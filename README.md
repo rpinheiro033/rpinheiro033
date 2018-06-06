@@ -1,2 +1,0 @@
-# ESoft-EasyChair
-N/A
